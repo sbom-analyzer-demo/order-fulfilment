@@ -1,0 +1,4 @@
+# Order orchestration and warehouse dispatch
+
+Django==3.2.4
+requests==2.19.1
